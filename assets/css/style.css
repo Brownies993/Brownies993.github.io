@@ -200,26 +200,25 @@ footer {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
 #port2 {
   background: url('../images/port2.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 }
+
 #port3 {
   background: url('../images/port3.jpg') ;
   background-size: cover;
   background-repeat: no-repeat;
 }
+
 #port4 {
   background: url('../images/port4.jpg') ;
   background-size: cover;
   background-repeat: no-repeat;
 }
-#port5 {
-  background: url('../images/port5.jpg') ;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
+
 #port6 {
   background: url('../images/port6.jpg');
   background-size: cover;
